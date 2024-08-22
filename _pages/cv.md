@@ -11,28 +11,18 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Robotics Engineering, Worcester Polytechnic Institute, 2027 (expected)
+* M.S. in Robotics Engineering, Worcester Polytechnic Institute
+* B.S. in Computer Science, Worcester Polytechnic Institute
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Summer 2024: Engineering Development Group Intern 
+  * MathWorks 
+  * Duties includes:  
+  * Supervisors: Remo Pillat, Cameron Stabile 
   
-Skills
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
@@ -61,4 +51,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
