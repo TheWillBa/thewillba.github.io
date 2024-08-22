@@ -19,7 +19,7 @@ Work experience
 ======
 * Summer 2024: Engineering Development Group Intern 
   * MathWorks 
-  * Duties includes:  
+  * Duties includes: Engineering intern working on features in the MATLAB Navigation Toolbox for Offroad Autonomy 
   * Supervisors: Remo Pillat, Cameron Stabile 
   
 <!-- Skills
